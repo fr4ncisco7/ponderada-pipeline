@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
+.DS_Store
+
+# enunciado da atividade (fica só local)
+Ponderada-cc08-do-pipeline-ao-deadlock.md
